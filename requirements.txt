@@ -1,0 +1,5 @@
+pathway
+python-dotenv
+pandas
+openai
+streamlit
